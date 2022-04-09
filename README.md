@@ -10,7 +10,7 @@ This project is carried out by Group 2 members, including:
 - [opencv](https://pypi.org/project/opencv-python/)
 - [numpy](https://pypi.org/project/numpy/)
 
-#Classify exsample model using (CNN)
+# Classify exsample model using (CNN)
 [Cat and Dog Classification](https://github.com/KimKhanh14/CatDogClassification)
 
 # Implementation document
